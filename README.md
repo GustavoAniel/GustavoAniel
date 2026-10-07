@@ -21,7 +21,6 @@
 - 💼 Desenvolvedor Frontend com ~4 anos de experiência
 - 🛠️ Também mexo com infra: deploy em servidores Linux, builds e atualizações de segurança
 - 🎓 Bacharel em Sistemas de Informação
-- 🔭 Atualmente trabalhando no **PortaFácil**, um app desktop em Tauri para portarias de condomínio
 
 ## 🚀 Tecnologias
 
